@@ -1,0 +1,5 @@
+{
+  "name": "3D Printer Farm Manager",
+  "description": "A React SPA to manage and schedule print jobs across a 3D printer farm. Users can define parts, assign them to different printer zones, and track the progress of each job.",
+  "requestFramePermissions": []
+}
